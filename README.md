@@ -1,36 +1,60 @@
 ```
-name: Naveen
-pronouns: He / Him
-code_languages:
-  - JavaScript
-  - Java
+js
+export default () => ({
+  name: "Syed Muhammad Ali Shah",
+  pronouns: "He" | "Him",
+  email: "alishah1234584.as@gmail.com",
+  github: "https://github.com/Ali-dotcom98/",
+  location: "Islamabad, Pakistan",
+  education: {
+    university: "COMSATS University Islamabad (CUI)",
+    degree: "Bachelors in Computer Science",
+    duration: "2022 – 2026"
+  },
+  hobbies: [
+    "Technology exploration",
+    "Cricket",
+    "UI design",
+    "Military aviation"
+  ],
+  highlights: {
+    softSkills: [
+      "Results-oriented",
+      "Quick learner",
+      "Detail oriented",
+      "Critical thinking",
+      "Written communication",
+      "Time management"
+    ],
+    technicalSkills: [
+      "C++", "JavaScript", "React.js", "Node.js", "Express.js",
+      "HTML", "CSS", "Tailwind CSS", "MongoDB", "Git", "GitHub",
+      "Postman", "Figma", "Docker", "Kubernetes", "Jenkins", "Selenium"
+    ]
+  },
+  technologies: {
+    frontEnd: {
+      js: ["React.js"],
+      css: ["Tailwind CSS", "HTML", "CSS"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express.js"]
+    },
+    databases: ["MongoDB"],
+    devOps: ["Docker", "Kubernetes", "Jenkins"],
+    testing: ["Selenium"]
+  },
+  tools: ["Git", "GitHub", "Postman", "Figma"],
+  memberships: [],
+  additionalInfo: {
+    interestedIn: [
+      "Web Development",
+      "UI/UX Design",
+      "Automation",
+      "Cloud Computing",
+      "System Design"
+    ]
+  }
+});
 
-ask_me_about:
-  - Web Development
-  - Technology
-  - App Development
-  - Music
-  - Eddie Vedder
-  - Chris Cornell
-
-technologies:
-  mobile_app:
-    - Android App
-  backend:
-    - Node.js
-    - Express.js
-    - Hapi
-  databases:
-    - MongoDB
-    - MySQL
-    - SQLite
-  misc_tools:
-    - Firebase
-    - Socket.IO
-
-architecture:
-  - Microservices
-  - Event-driven
-
-fun_fact: "There are two ways to write error-free programs; only the third one works."
 ```
