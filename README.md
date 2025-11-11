@@ -1,16 +1,34 @@
-## Hi there 👋
+name: Naveen  
+pronouns: He / Him  
+code_languages:  
+  - JavaScript  
+  - Java  
 
-<!--
-**GNUM12/GNUM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ask_me_about:  
+  - Web Development  
+  - Technology  
+  - App Development  
+  - Music  
+  - Eddie Vedder  
+  - Chris Cornell  
 
-Here are some ideas to get you started:
+technologies:  
+  mobile_app:  
+    - Android App  
+  backend:  
+    - Node.js  
+    - Express.js  
+    - Hapi  
+  databases:  
+    - MongoDB  
+    - MySQL  
+    - SQLite  
+  misc_tools:  
+    - Firebase  
+    - Socket.IO  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+architecture:  
+  - Microservices  
+  - Event-driven  
+
+fun_fact: "There are two ways to write error-free programs; only the third one works."
