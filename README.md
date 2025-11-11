@@ -1,5 +1,6 @@
-```
-js
+### 👨‍💻 About Me
+
+```js
 export default () => ({
   name: "Syed Muhammad Ali Shah",
   pronouns: "He" | "Him",
@@ -56,5 +57,3 @@ export default () => ({
     ]
   }
 });
-
-```
